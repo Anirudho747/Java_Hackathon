@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Day 1">
-      <change afterPath="$PROJECT_DIR$/src/week1/Day2_returnSquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week1/Day2_returnIfPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Day1_returnSquareRoot">
+  <component name="RunManager" selected="Application.Day2_returnIfPalindrome">
     <configuration name="Day1_returnLengthOfLastWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week1.Day1_returnLengthOfLastWord" />
       <module name="untitled" />
@@ -63,8 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day2_returnIfPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.Day2_returnIfPalindrome" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day2_returnIfPalindrome" />
         <item itemvalue="Application.Day1_returnSquareRoot" />
         <item itemvalue="Application.Day1_returnLengthOfLastWord" />
       </list>
