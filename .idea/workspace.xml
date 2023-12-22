@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Happy Number">
-      <change afterPath="$PROJECT_DIR$/src/week1/Day5_getMajorityElement.java" afterDir="false" />
+    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Majority Element">
+      <change afterPath="$PROJECT_DIR$/src/week1/Day6_returnDuplicateElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,20 +36,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Day5_getMajorityElement">
-    <configuration name="Day1_returnSquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.Day1_returnSquareRoot" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day6_returnDuplicateElements">
     <configuration name="Day2_returnIfPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week1.Day2_returnIfPalindrome" />
       <module name="untitled" />
@@ -102,13 +89,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day6_returnDuplicateElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.Day6_returnDuplicateElements" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day6_returnDuplicateElements" />
         <item itemvalue="Application.Day5_getMajorityElement" />
         <item itemvalue="Application.Day4_checkHappyNumber" />
         <item itemvalue="Application.Day3_returnIfNotTwice" />
         <item itemvalue="Application.Day2_returnIfPalindrome" />
-        <item itemvalue="Application.Day1_returnSquareRoot" />
       </list>
     </recent_temporary>
   </component>
@@ -145,13 +145,22 @@
       <option name="project" value="LOCAL" />
       <updated>1703052314774</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Majority Element">
+      <option name="closed" value="true" />
+      <created>1703122698470</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703122698470</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 1" />
     <MESSAGE value="Day 2" />
     <MESSAGE value="Happy Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Happy Number" />
+    <MESSAGE value="Majority Element" />
+    <option name="LAST_COMMIT_MESSAGE" value="Majority Element" />
   </component>
 </project>
