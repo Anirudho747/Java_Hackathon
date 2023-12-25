@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Non Repeating Elements">
-      <change afterPath="$PROJECT_DIR$/src/week2/Day8_returnEmbeddedString.java" afterDir="false" />
+    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Gems and stones">
+      <change afterPath="$PROJECT_DIR$/src/week2/Day9_returnRepeatingChar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,20 +36,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Day8_returnEmbeddedString">
-    <configuration name="Day4_checkHappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.Day4_checkHappyNumber" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day9_returnRepeatingChar">
     <configuration name="Day5_getMajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week1.Day5_getMajorityElement" />
       <module name="untitled" />
@@ -102,13 +89,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day9_returnRepeatingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.Day9_returnRepeatingChar" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day9_returnRepeatingChar" />
         <item itemvalue="Application.Day8_returnEmbeddedString" />
         <item itemvalue="Application.Day7_returnNonRepeating" />
         <item itemvalue="Application.Day6_returnDuplicateElements" />
         <item itemvalue="Application.Day5_getMajorityElement" />
-        <item itemvalue="Application.Day4_checkHappyNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703296702241</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Gems and stones">
+      <option name="closed" value="true" />
+      <created>1703387491167</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703387491167</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -179,6 +187,7 @@
     <MESSAGE value="Majority Element" />
     <MESSAGE value="Unique Elements" />
     <MESSAGE value="Non Repeating Elements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Non Repeating Elements" />
+    <MESSAGE value="Gems and stones" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gems and stones" />
   </component>
 </project>
