@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Unique Occurences">
-      <change afterPath="$PROJECT_DIR$/src/week2/Day11_returnLargestSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/Day11_returnLargestSentence_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Day11_returnLargestSentence">
+  <component name="RunManager" selected="Application.Day12_returnSentenceWithMostWords_2">
     <configuration name="Day10_returnIfOccurencesUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week2.Day10_returnIfOccurencesUnique" />
       <module name="untitled" />
@@ -50,8 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day11_returnLargestSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.Day11_returnLargestSentence" />
+    <configuration name="Day11_returnSentenceWithMostWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.Day11_returnSentenceWithMostWords" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -63,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day7_returnNonRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.Day7_returnNonRepeating" />
+    <configuration name="Day12_returnSentenceWithMostWords_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.Day12_returnSentenceWithMostWords_2" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.*" />
+          <option name="PATTERN" value="week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Day11_returnLargestSentence" />
+        <item itemvalue="Application.Day12_returnSentenceWithMostWords_2" />
+        <item itemvalue="Application.Day11_returnSentenceWithMostWords" />
         <item itemvalue="Application.Day10_returnIfOccurencesUnique" />
         <item itemvalue="Application.Day9_returnRepeatingChar" />
         <item itemvalue="Application.Day8_returnEmbeddedString" />
-        <item itemvalue="Application.Day7_returnNonRepeating" />
       </list>
     </recent_temporary>
   </component>

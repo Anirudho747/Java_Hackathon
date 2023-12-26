@@ -3,7 +3,7 @@ package week2;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Day11_returnLargestSentence {
+public class Day11_returnSentenceWithMostWords {
 
     static int len;
     static String[] strArray=new String[]{"alice and bob love leetcode just so much", "i think so too", "this is great thanks very much"};
