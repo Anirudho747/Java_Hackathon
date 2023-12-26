@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="first Returning Character">
-      <change afterPath="$PROJECT_DIR$/src/week2/Day10_returnIfOccurencesUnique.java" afterDir="false" />
+    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Unique Occurences">
+      <change afterPath="$PROJECT_DIR$/src/week2/Day11_returnLargestSentence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Day10_returnIfOccurencesUnique">
+  <component name="RunManager" selected="Application.Day11_returnLargestSentence">
     <configuration name="Day10_returnIfOccurencesUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week2.Day10_returnIfOccurencesUnique" />
       <module name="untitled" />
@@ -50,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day6_returnDuplicateElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.Day6_returnDuplicateElements" />
+    <configuration name="Day11_returnLargestSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.Day11_returnLargestSentence" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.*" />
+          <option name="PATTERN" value="week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day11_returnLargestSentence" />
         <item itemvalue="Application.Day10_returnIfOccurencesUnique" />
         <item itemvalue="Application.Day9_returnRepeatingChar" />
         <item itemvalue="Application.Day8_returnEmbeddedString" />
         <item itemvalue="Application.Day7_returnNonRepeating" />
-        <item itemvalue="Application.Day6_returnDuplicateElements" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703492226417</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Unique Occurences">
+      <option name="closed" value="true" />
+      <created>1703555669990</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703555669991</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -197,6 +205,7 @@
     <MESSAGE value="Non Repeating Elements" />
     <MESSAGE value="Gems and stones" />
     <MESSAGE value="first Returning Character" />
-    <option name="LAST_COMMIT_MESSAGE" value="first Returning Character" />
+    <MESSAGE value="Unique Occurences" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unique Occurences" />
   </component>
 </project>
