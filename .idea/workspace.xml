@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Unique Occurences">
-      <change afterPath="$PROJECT_DIR$/src/week2/Day11_returnLargestSentence_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/Day12_returnCorrectSequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,10 +33,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Day12_returnSentenceWithMostWords_2">
+  <component name="RunManager" selected="Application.Day13_returnCorrectSequence">
     <configuration name="Day10_returnIfOccurencesUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week2.Day10_returnIfOccurencesUnique" />
       <module name="untitled" />
@@ -76,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day8_returnEmbeddedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.Day8_returnEmbeddedString" />
+    <configuration name="Day13_returnCorrectSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.Day13_returnCorrectSequence" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day13_returnCorrectSequence" />
         <item itemvalue="Application.Day12_returnSentenceWithMostWords_2" />
         <item itemvalue="Application.Day11_returnSentenceWithMostWords" />
         <item itemvalue="Application.Day10_returnIfOccurencesUnique" />
         <item itemvalue="Application.Day9_returnRepeatingChar" />
-        <item itemvalue="Application.Day8_returnEmbeddedString" />
       </list>
     </recent_temporary>
   </component>
