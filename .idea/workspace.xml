@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Parameter updated">
-      <change afterPath="$PROJECT_DIR$/src/week2/Day13_returnifSameString.java" afterDir="false" />
+    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Check if Strings are same">
+      <change afterPath="$PROJECT_DIR$/src/week2/Day14_returnSumOfUnique.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week2/Day11_returnSentenceWithMostWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/Day11_returnSentenceWithMostWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +37,7 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Day13_returnifSameString">
-    <configuration name="Day10_returnIfOccurencesUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.Day10_returnIfOccurencesUnique" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day14_returnSumOfUnique">
     <configuration name="Day11_returnSentenceWithMostWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week2.Day11_returnSentenceWithMostWords" />
       <module name="untitled" />
@@ -104,13 +90,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day14_returnSumOfUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.Day14_returnSumOfUnique" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day14_returnSumOfUnique" />
         <item itemvalue="Application.Day13_returnifSameString" />
         <item itemvalue="Application.Day13_returnCorrectSequence" />
         <item itemvalue="Application.Day12_returnSentenceWithMostWords_2" />
         <item itemvalue="Application.Day11_returnSentenceWithMostWords" />
-        <item itemvalue="Application.Day10_returnIfOccurencesUnique" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703727023198</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Check if Strings are same">
+      <option name="closed" value="true" />
+      <created>1703728421651</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1703728421651</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -226,6 +233,7 @@
     <MESSAGE value="Unique Occurences" />
     <MESSAGE value="Correct Sequence" />
     <MESSAGE value="Parameter updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Parameter updated" />
+    <MESSAGE value="Check if Strings are same" />
+    <option name="LAST_COMMIT_MESSAGE" value="Check if Strings are same" />
   </component>
 </project>
