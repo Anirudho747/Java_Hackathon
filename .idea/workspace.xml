@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Unique Occurences">
-      <change afterPath="$PROJECT_DIR$/src/week2/Day12_returnCorrectSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Correct Sequence">
+      <change beforePath="$PROJECT_DIR$/src/week2/Day13_returnCorrectSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/Day13_returnCorrectSequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703555669991</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Correct Sequence">
+      <option name="closed" value="true" />
+      <created>1703726753005</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703726753005</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -207,6 +214,7 @@
     <MESSAGE value="Gems and stones" />
     <MESSAGE value="first Returning Character" />
     <MESSAGE value="Unique Occurences" />
-    <option name="LAST_COMMIT_MESSAGE" value="Unique Occurences" />
+    <MESSAGE value="Correct Sequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correct Sequence" />
   </component>
 </project>
