@@ -12,8 +12,8 @@ public class Day11_returnSentenceWithMostWords {
 
     public static void main(String[] args)
     {
-          getLength(strArray);
-          getWords(strArray);
+        getLength(strArray);
+        getWords(strArray);
     }
 
     static void getLength(String[] arrayStr)
