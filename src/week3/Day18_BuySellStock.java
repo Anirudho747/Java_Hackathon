@@ -4,18 +4,11 @@ import java.util.Scanner;
 
 public class Day18_BuySellStock {
 
-    static int[] arr = new int[7];
-    static int min=Integer.MAX_VALUE,max=Integer.MIN_VALUE,diff=0;
-    static int minpoint,maxpoint;
+    static int[] arr = new int[]{7,1,5,3,6,4};
+    static int flag=0,maxMargin=0;
 
     public static void main(String[] args)
     {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter values for day");
-        for(int i=0;i<arr.length;i++)
-        {
-            arr[i] = sc.nextInt();
-        }
         getDiff();
     }
 
@@ -23,22 +16,28 @@ public class Day18_BuySellStock {
     {
         for(int i=0;i<arr.length;i++)
         {
-                if (min > arr[i])
+            for(int j=i+1;j<arr.length;j++)
+            {
+                if(arr[i]-arr[j]<0)
                 {
-                    min = arr[i];
-                    minpoint = i;
+                    flag++;
+                    if(maxMargin>(arr[i]-arr[j]))
+                    {
+                        maxMargin = (arr[i]-arr[j]);
+                    }
                 }
-                if(minpoint==arr[arr.length-1])
-                {
-                    System.out.println("Can't earn profit");
-                    break;
-                }
-                if (max < arr[i])
-                {
-                max = arr[i];
-                maxpoint = i;
-                }
+            }
+        }
+
+        if(flag>0)
+        {
+            System.out.println(Math.abs(maxMargin));
 
         }
+        else
+        {
+            System.out.println("No Transaction");
+        }
+
     }
 }
