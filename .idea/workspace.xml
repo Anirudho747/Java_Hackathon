@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="distance from a specific character in String">
-      <change afterPath="$PROJECT_DIR$/src/week3/Day18_returnMaxSumSubarray.java" afterDir="false" />
+    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Max Subarray">
+      <change afterPath="$PROJECT_DIR$/src/week3/Day18_BuySellStock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703994073983</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Max Subarray">
+      <option name="closed" value="true" />
+      <created>1704091943838</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1704091943838</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -261,6 +270,7 @@
     <MESSAGE value="return sum of Unique elements" />
     <MESSAGE value="return kth unique Unique element" />
     <MESSAGE value="distance from a specific character in String" />
-    <option name="LAST_COMMIT_MESSAGE" value="distance from a specific character in String" />
+    <MESSAGE value="Max Subarray" />
+    <option name="LAST_COMMIT_MESSAGE" value="Max Subarray" />
   </component>
 </project>
