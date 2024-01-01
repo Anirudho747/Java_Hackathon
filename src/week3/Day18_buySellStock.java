@@ -1,8 +1,6 @@
 package week3;
 
-import java.util.Scanner;
-
-public class Day18_BuySellStock {
+public class Day18_buySellStock {
 
     static int[] arr = new int[]{7,1,5,3,6,4};
     static int flag=0,maxMargin=0;
