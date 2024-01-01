@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Sell Day">
+    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Self coded">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/week3/Day18_BuySellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week3/Day18_BuySellStock.java" afterDir="false" />
     </list>
@@ -258,7 +258,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704093628243</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Self coded">
+      <option name="closed" value="true" />
+      <created>1704106562262</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1704106562262</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -279,6 +287,7 @@
     <MESSAGE value="distance from a specific character in String" />
     <MESSAGE value="Max Subarray" />
     <MESSAGE value="Sell Day" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sell Day" />
+    <MESSAGE value="Self coded" />
+    <option name="LAST_COMMIT_MESSAGE" value="Self coded" />
   </component>
 </project>

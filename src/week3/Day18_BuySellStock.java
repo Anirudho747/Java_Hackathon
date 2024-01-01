@@ -18,21 +18,17 @@ public class Day18_BuySellStock {
         {
             for(int j=i+1;j<arr.length;j++)
             {
-                if(arr[i]-arr[j]<0)
-                {
-                    flag++;
                     if(maxMargin>(arr[i]-arr[j]))
                     {
+                        flag++;
                         maxMargin = (arr[i]-arr[j]);
                     }
-                }
             }
         }
 
         if(flag>0)
         {
             System.out.println(Math.abs(maxMargin));
-
         }
         else
         {
