@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Question Number 2 in Udemy">
-      <change afterPath="$PROJECT_DIR$/src/week3/Day20_MajorityElement.java" afterDir="false" />
+    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Majority Element">
+      <change afterPath="$PROJECT_DIR$/src/week4/Day22_moveZeroes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,35 +42,9 @@
       <recent name="week3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day20_MajorityElement">
-    <configuration name="Day17_returnDistanceToClosestOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3.Day17_returnDistanceToClosestOccurence" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day22_moveZeroes">
     <configuration name="Day18_buySellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week3.Day18_buySellStock" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day18_returnMaxSumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3.Day18_returnMaxSumSubarray" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -108,13 +82,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day21_MajorityElement_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3.Day21_MajorityElement_2" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day22_moveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4.Day22_moveZeroes" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day22_moveZeroes" />
+        <item itemvalue="Application.Day21_MajorityElement_2" />
         <item itemvalue="Application.Day20_MajorityElement" />
         <item itemvalue="Application.Day19_buySellStock_2" />
         <item itemvalue="Application.Day18_buySellStock" />
-        <item itemvalue="Application.Day18_returnMaxSumSubarray" />
-        <item itemvalue="Application.Day17_returnDistanceToClosestOccurence" />
       </list>
     </recent_temporary>
   </component>
@@ -287,14 +287,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704109209026</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Majority Element">
+      <option name="closed" value="true" />
+      <created>1704648381438</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1704648381438</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 1" />
     <MESSAGE value="Day 2" />
     <MESSAGE value="Happy Number" />
-    <MESSAGE value="Majority Element" />
     <MESSAGE value="Unique Elements" />
     <MESSAGE value="Non Repeating Elements" />
     <MESSAGE value="Gems and stones" />
@@ -310,6 +317,7 @@
     <MESSAGE value="Sell Day" />
     <MESSAGE value="Self coded" />
     <MESSAGE value="Question Number 2 in Udemy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Question Number 2 in Udemy" />
+    <MESSAGE value="Majority Element" />
+    <option name="LAST_COMMIT_MESSAGE" value="Majority Element" />
   </component>
 </project>
