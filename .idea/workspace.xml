@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Move Zero to end">
-      <change afterPath="$PROJECT_DIR$/src/week4/Day23_moveZeroesToBeginning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Day24_sortColors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/Day22_moveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week4/Day22_moveZeroesToEnd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
       <recent name="week3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day23_findElementsWithEqualSum">
+  <component name="RunManager" selected="Application.Day24_sortColors">
     <configuration name="Day19_buySellStock_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week3.Day19_buySellStock_2" />
       <module name="untitled" />
@@ -83,19 +82,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day22_moveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week4.Day22_moveZeroes" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Day23_findElementsWithEqualSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week4.Day23_findElementsWithEqualSum" />
       <module name="untitled" />
@@ -109,10 +95,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day24_sortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4.Day24_sortColors" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day24_sortColors" />
         <item itemvalue="Application.Day23_findElementsWithEqualSum" />
-        <item itemvalue="Application.Day22_moveZeroesToEnd" />
         <item itemvalue="Application.Day21_MajorityElement_2" />
         <item itemvalue="Application.Day20_MajorityElement" />
         <item itemvalue="Application.Day19_buySellStock_2" />
