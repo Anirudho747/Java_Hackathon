@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Move Zero to end">
-      <change afterPath="$PROJECT_DIR$/src/week4/Day24_sortColors.java" afterDir="false" />
+    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Sort colors">
+      <change afterPath="$PROJECT_DIR$/src/week4/Day25_sortColors_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Day26_maxProdSubarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week4/Day24_sortColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week4/Day24_sortColors.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,33 +44,7 @@
       <recent name="week3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day24_sortColors">
-    <configuration name="Day19_buySellStock_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3.Day19_buySellStock_2" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day20_MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3.Day20_MajorityElement" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day26_maxProdSubarray">
     <configuration name="Day21_MajorityElement_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week3.Day21_MajorityElement_2" />
       <module name="untitled" />
@@ -108,13 +84,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day25_sortColors_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4.Day25_sortColors_2" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day26_maxProdSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4.Day26_maxProdSubarray" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day26_maxProdSubarray" />
+        <item itemvalue="Application.Day25_sortColors_2" />
         <item itemvalue="Application.Day24_sortColors" />
         <item itemvalue="Application.Day23_findElementsWithEqualSum" />
         <item itemvalue="Application.Day21_MajorityElement_2" />
-        <item itemvalue="Application.Day20_MajorityElement" />
-        <item itemvalue="Application.Day19_buySellStock_2" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +305,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704733970153</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Sort colors">
+      <option name="closed" value="true" />
+      <created>1704912707098</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1704912707098</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -327,6 +337,7 @@
     <MESSAGE value="Question Number 2 in Udemy" />
     <MESSAGE value="Majority Element" />
     <MESSAGE value="Move Zero to end" />
-    <option name="LAST_COMMIT_MESSAGE" value="Move Zero to end" />
+    <MESSAGE value="Sort colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sort colors" />
   </component>
 </project>
