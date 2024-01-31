@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Substring without repeat">
-      <change afterPath="$PROJECT_DIR$/src/week5/Day29_LongestSubstringWithoutRepetition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/Day30_LongestSubstringWithoutRepetition_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/Day31_matchingBrackets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,20 +43,7 @@
       <recent name="week3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day29_LongestSubstringWithoutRepetition">
-    <configuration name="Day25_sortColors_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week4.Day25_sortColors_2" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day30_LongestSubstringWithoutRepetition_2">
     <configuration name="Day26_maxProdSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week4.Day26_maxProdSubarray" />
       <module name="untitled" />
@@ -108,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day30_LongestSubstringWithoutRepetition_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week5.Day30_LongestSubstringWithoutRepetition_2" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day30_LongestSubstringWithoutRepetition_2" />
         <item itemvalue="Application.Day29_LongestSubstringWithoutRepetition" />
         <item itemvalue="Application.Day28_replaceJunkCharacters" />
         <item itemvalue="Application.Day27_prodExceptSelf" />
         <item itemvalue="Application.Day26_maxProdSubarray" />
-        <item itemvalue="Application.Day25_sortColors_2" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +328,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705943724842</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Substring without repeat">
+      <option name="closed" value="true" />
+      <created>1706413002512</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1706413002512</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
