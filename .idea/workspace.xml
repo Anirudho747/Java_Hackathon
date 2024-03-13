@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="sorted Square">
-      <change afterPath="$PROJECT_DIR$/src/week6/Day37_ConcatenateSameArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/Day38_SecondSmallestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/Day39_SecondSmallestNumber_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/Day40_sortedMergedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,46 +44,7 @@
       <recent name="week3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day37_ConcatenateSameArray">
-    <configuration name="Day33_reaarangeSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week5.Day33_reaarangeSentence" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day34_sumValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week5.Day34_sumValue" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day35_IntersectionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week5.Day35_IntersectionArray" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day40_sortedMergedArray">
     <configuration name="Day36_Square_Each_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week6.Day36_Square_Each_Element" />
       <module name="untitled" />
@@ -108,13 +71,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day38_SecondSmallestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.Day38_SecondSmallestNumber" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day39_SecondSmallestNumber_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.Day39_SecondSmallestNumber_2" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day40_sortedMergedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.Day40_sortedMergedArray" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day40_sortedMergedArray" />
+        <item itemvalue="Application.Day39_SecondSmallestNumber_2" />
+        <item itemvalue="Application.Day38_SecondSmallestNumber" />
         <item itemvalue="Application.Day37_ConcatenateSameArray" />
         <item itemvalue="Application.Day36_Square_Each_Element" />
-        <item itemvalue="Application.Day35_IntersectionArray" />
-        <item itemvalue="Application.Day34_sumValue" />
-        <item itemvalue="Application.Day33_reaarangeSentence" />
       </list>
     </recent_temporary>
   </component>
