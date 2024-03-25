@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="sorted Square">
-      <change afterPath="$PROJECT_DIR$/src/week6/Day42_StringReverse.java" afterDir="false" />
+    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Reverse String">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6/Day42_StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6/Day42_StringReverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -366,11 +367,18 @@
       <option name="project" value="LOCAL" />
       <updated>1709375333284</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Reverse String">
+      <option name="closed" value="true" />
+      <created>1711329812115</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1711329812115</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Unique Elements" />
     <MESSAGE value="Non Repeating Elements" />
     <MESSAGE value="Gems and stones" />
     <MESSAGE value="first Returning Character" />
@@ -395,6 +403,7 @@
     <MESSAGE value="SumValye" />
     <MESSAGE value="Array Intersection" />
     <MESSAGE value="sorted Square" />
-    <option name="LAST_COMMIT_MESSAGE" value="sorted Square" />
+    <MESSAGE value="Reverse String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse String" />
   </component>
 </project>
