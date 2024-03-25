@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="sorted Square">
-      <change afterPath="$PROJECT_DIR$/src/week6/Day41_SumOfUnique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/Day42_StringReverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +41,7 @@
       <recent name="week3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day41_SumOfUnique">
-    <configuration name="Day37_ConcatenateSameArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week6.Day37_ConcatenateSameArray" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day42_StringReverse">
     <configuration name="Day38_SecondSmallestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week6.Day38_SecondSmallestNumber" />
       <module name="untitled" />
@@ -108,13 +94,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day42_StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.Day42_StringReverse" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day42_StringReverse" />
         <item itemvalue="Application.Day41_SumOfUnique" />
         <item itemvalue="Application.Day40_sortedMergedArray" />
         <item itemvalue="Application.Day39_SecondSmallestNumber_2" />
         <item itemvalue="Application.Day38_SecondSmallestNumber" />
-        <item itemvalue="Application.Day37_ConcatenateSameArray" />
       </list>
     </recent_temporary>
   </component>
