@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Palindrome">
-      <change afterPath="$PROJECT_DIR$/src/week7/Day44_MaxMin.java" afterDir="false" />
+    <list default="true" id="eac42158-31c4-48b5-9bee-dcafdca78685" name="Changes" comment="Max &amp; Min numbers">
+      <change afterPath="$PROJECT_DIR$/src/week7/Day45_Anagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,20 +42,7 @@
       <recent name="week3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day44_MaxMin">
-    <configuration name="Day40_sortedMergedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week6.Day40_sortedMergedArray" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day45_Anagram">
     <configuration name="Day41_SumOfUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week6.Day41_SumOfUnique" />
       <module name="untitled" />
@@ -108,13 +95,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day45_Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week7.Day45_Anagram" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day45_Anagram" />
         <item itemvalue="Application.Day44_MaxMin" />
         <item itemvalue="Application.Day43_Palindrome" />
         <item itemvalue="Application.Day42_StringReverse" />
         <item itemvalue="Application.Day41_SumOfUnique" />
-        <item itemvalue="Application.Day40_sortedMergedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -391,11 +391,18 @@
       <option name="project" value="LOCAL" />
       <updated>1711336090666</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Max &amp; Min numbers">
+      <option name="closed" value="true" />
+      <created>1711416416298</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1711416416298</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first Returning Character" />
     <MESSAGE value="Unique Occurences" />
     <MESSAGE value="Correct Sequence" />
     <MESSAGE value="Parameter updated" />
@@ -420,6 +427,7 @@
     <MESSAGE value="Reverse String" />
     <MESSAGE value="Reverse String 2" />
     <MESSAGE value="Palindrome" />
-    <option name="LAST_COMMIT_MESSAGE" value="Palindrome" />
+    <MESSAGE value="Max &amp; Min numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Max &amp; Min numbers" />
   </component>
 </project>
